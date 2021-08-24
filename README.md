@@ -6,7 +6,7 @@ tiny_interpretor 是一个使用cpp实现的简单的计算器，支持变量的
 
 # 代码片段
 
-`
+```
 int main() 
 {
     using std::string;
@@ -44,4 +44,4 @@ int main()
     //}
     return 0;
 }
-`
+```
